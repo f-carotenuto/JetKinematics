@@ -18,3 +18,4 @@ Notebooks written in Python 3, requiring the following packages:
 - corner
 - emcee
 - scipy
+[Uploading MAXIJ1820_JET_ANGSEP_FIT_WITH_UNCERTAINTIES_1DEG.pdf…]()
