@@ -1,3 +1,4 @@
+#MJD     ANGULAR SEPARATION (arcsec)  ERROR (arcsec)
 58418.85  4.4    1.1      
 58425.50  4.5    0.8                       
 58432.48  3.8    0.8      
