@@ -13,10 +13,8 @@ If this repository is useful for your own research, in addition to citing the or
 # Software requirements
 
 Notebooks written in Python 3, requiring the following packages:
-
-numpy v1.15.4
-matplotlib v2.2.3
-aplpy v1.1.1
-scipy v1.1.0
-astropy v2.0.9
-As noted in the Plotting Fields notebook, the created .png images are combined using external software into the composite images shown in the paper.
+- numpy 
+- matplotlib 
+- corner
+- emcee
+- scipy
