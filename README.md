@@ -19,5 +19,4 @@ Notebooks written in Python 3, requiring the following packages:
 - emcee
 - scipy
 
-![Alt text] (https://github.com/francescocarot/JetKinematics/blob/main/MAXIJ1820_JET_ANGSEP_FIT_WITH_UNCERTAINTIES_1DEG.pdf)
 <img width="1280" alt="maxij1820_readme_img" src="https://github.com/francescocarot/JetKinematics/assets/46523448/80ace31e-6f76-46fd-afa5-d13e746f0681">
