@@ -6,7 +6,7 @@ The full paper can be found on (INSERT ARXIV LINK) (open access).
 
 This repository contains three Jupyter notebooks and the required angular separation data to produce the images and the calculations in the paper mentioned above. The motivations for the performed calculations and plotting settings are also included to certain extend, although we refer to the main paper for full details.
 
-Please get in touch via email (jakob.vandeneijnden [at] st-hildas.ox.ac.uk) or github with questions.
+Please contact me via email at (francesco.carotenuto [at] physics.ox.ac.uk) or github with questions.
 
 If this repository is useful for your own research, in addition to citing the original paper, please consider including a note to this repository as well.
 
