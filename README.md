@@ -12,11 +12,11 @@ If this repository is useful for your own research, in addition to citing the or
 
 # Software requirements
 
-Notebooks written in Python 3, requiring the following packages:
-- numpy 
-- matplotlib 
-- corner
-- emcee
-- scipy
+Notebooks written in Python 3, using the the following packages:
+- scipy v1.9.1
+- matplotlib v3.6.0
+- numpy v1.23.3
+- corner v2.2.2
+- emcee v3.1.2
 
 <img width="1280" alt="maxij1820_readme_img" src="https://github.com/francescocarot/JetKinematics/assets/46523448/80ace31e-6f76-46fd-afa5-d13e746f0681">
