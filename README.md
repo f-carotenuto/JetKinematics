@@ -1,6 +1,6 @@
 # Modeling the kinematics of discrete relativistic jets from black hole X-ray binaries
 
-A repository containing Jupyter notebooks with the implementation of the external shock model (Wang et al. 2003) used to describe the motion of the relativistic ejecta from the black hole X-ray binaries MAXI J1820+070, MAXI J1535-571 and XTE J1752-223, presented in Carotenuto et al. (to be submitted), with the title "Constraining the physical properties of large-scale jets from black hole X-ray binaries and their impacts on the local environment with blast-wave dynamical models".
+A repository containing Jupyter notebooks with the implementation of the external shock model (Wang et al. 2003) used to describe the motion of the relativistic ejecta from the black hole X-ray binaries MAXI J1820+070, MAXI J1535-571 and XTE J1752-223, presented in Carotenuto et al. (submitted to MNRAS), with the title "Constraining the physical properties of large-scale jets from black hole X-ray binaries and their impact on the local environment with blast-wave dynamical models".
 
 This repository contains three Jupyter notebooks and the required angular separation data to produce the images and the calculations in the paper mentioned above. The motivations for the performed calculations and plotting settings are also included to certain extend, although we refer to the main paper for full details.
 
